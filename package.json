@@ -1,0 +1,21 @@
+{
+  "name": "Hamster Chat",
+  "private": true,
+  "version": "0.0.0",
+  "description": "a Sails application",
+  "keywords": [],
+  "dependencies": {
+    "websocket":null
+  },
+  "scripts": {
+    "debug": "node debug app.js",
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anonymous node/sails user/HamBoards.git"
+  },
+  "author": "anonymous node/sails user",
+  "license": ""
+}
