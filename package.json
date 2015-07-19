@@ -1,11 +1,11 @@
 {
-  "name": "Hamster Chat",
+  "name": "Hamster-Chat",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
   "keywords": [],
   "dependencies": {
-    "websocket":null
+    "websocket":"1.0.19"
   },
   "scripts": {
     "debug": "node debug app.js",
